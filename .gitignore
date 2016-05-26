@@ -1,0 +1,11 @@
+.cache
+MANIFEST
+__pycache__
+dist
+*.pyc
+scheds
+*.xlsx
+*.ics
+*.egg-info/
+.eggs/
+build/
